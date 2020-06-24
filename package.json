@@ -1,0 +1,26 @@
+{
+  "name": "react-styled-components",
+  "version": "1.0.0",
+  "description": "This is a compact implementation of React styled components.",
+  "main": "StyleSheet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davechri/react-styled-components.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davechri/react-styled-components/issues"
+  },
+  "homepage": "https://github.com/davechri/react-styled-components#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@emotion/is-prop-valid": "^0.8.8"
+  }
+}
